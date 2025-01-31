@@ -1,0 +1,11 @@
+body{
+    background-color: #333;
+    color:rgba(green,blue,orange,0.5);
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+div{
+    padding:20px;
+    background:green;
+}
